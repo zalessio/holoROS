@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{96D8854A-9EFD-71FA-34D4-A5788D6CBD5F}") = "holoROS", "Assembly-CSharp.csproj", "{340A7BD5-9918-4801-CC4F-A8009E7E7BD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{340A7BD5-9918-4801-CC4F-A8009E7E7BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{340A7BD5-9918-4801-CC4F-A8009E7E7BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{340A7BD5-9918-4801-CC4F-A8009E7E7BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{340A7BD5-9918-4801-CC4F-A8009E7E7BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
